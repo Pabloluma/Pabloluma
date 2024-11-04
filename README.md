@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # 👋🏻Hi, I am Pablo Lupión Márquez
 
 ## :octocat: Acerca de mí 
-Soy un apasionado de la informática y estudiante de grado superior DAW. Actualmente estoy en búsqueda activa de empleo. Por lo que voy a subir los proyectos que vaya creando.
+Soy un apasionado de la informática y estudiante de grado superior DAW.
 <!--
 <p align="center">
   <img alt="Muñedo" src="https://cdn.pixabay.com/animation/2022/09/07/08/55/08-55-43-_256.gif" width="auto" height="100"/>
@@ -97,7 +97,7 @@ Aquí en GitHub, comparto recursos, ejemplos de código y proyectos que utilizam
 
 ### 🛠️ Proyectos Destacados
 - `AgendaContactos`: Este proyecto es una aplicacion CRUD en la que se pueden gestionar una agenda de Contactos mediante SQLite
-- `MarvelDetails`: Este es el proyecto integrado de finalización del grado superior 
+- `MarvelDetails`: Este es el proyecto integrado de finalización del grado superior.Una aplicacion movil desarrollada para dispositivos android, usando el lenguaje de programación Java, junto con una base de datos, gestion de imagenes y recursos, y autenticacion de usuarios la he realizado mediande Firebase.
 - `Actividad_SpringBoot`: Proyecto que se ha realizado mediante el framework de SpringBoot, junto con el gestor de librerías Maven, Hibernate como ORM para la gestión de la base de datos MySQL y Java como lenguaje de programación del lado servidor, html y css del lado del cliente. Este proyecto realiza operaciones CRUD a una tabla personas donde se pueden crear, consultar, modificar y eliminar personas, mediante formularios.
 - `PracticaStruts2_ClienteProducto` Es un proyecto de java que utiliza Struts 2 como framework de desarrollo, con Jsp como tipo de archivo para la vista, Java como lenguaje de programación.
 
